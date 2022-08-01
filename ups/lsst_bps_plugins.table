@@ -4,6 +4,7 @@
 #   the "sconsUtils" package.
 setupRequired(ctrl_bps_htcondor)
 setupRequired(ctrl_bps_panda)
+setupRequired(ctrl_bps_parsl)
 
 # The following is boilerplate for all packages.
 # See https://dmtn-001.lsst.io for details on LSST_LIBRARY_PATH.
